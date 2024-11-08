@@ -13,7 +13,7 @@ const Projects = () => {
               <div>
                 <Card.Img
                   variant="top"
-                  src={`public/country_single.png`}
+                  src={`/country_single.png`}
                   alt={`Countries app`}
                   className="rounded h-50"
                   style={{
@@ -42,7 +42,7 @@ const Projects = () => {
               <div>
                 <Card.Img
                   variant="top"
-                  src={`public/TasteIt.png`}
+                  src={`/TasteIt.png`}
                   alt={`TasteIt`}
                   className="rounded h-50"
                   style={{
@@ -71,7 +71,7 @@ const Projects = () => {
               <div>
                 <Card.Img
                   variant="top"
-                  src={`public/menu-app.png`}
+                  src={`/menu-app.png`}
                   alt={`Jimmy's Diner`}
                   className="rounded h-50"
                   style={{
@@ -100,7 +100,7 @@ const Projects = () => {
               <div>
                 <Card.Img
                   variant="top"
-                  src={`public/speedgame.png`}
+                  src={`/speedgame.png`}
                   alt={`Speedgame`}
                   className="rounded h-50"
                   style={{
