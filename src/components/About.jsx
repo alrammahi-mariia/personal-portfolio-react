@@ -11,7 +11,7 @@ const About = () => {
           <Col className="d-flex justify-content-center mb-2">
             <div>
               <Image
-                src={"/src/assets/profile-pic.png"}
+                src={"/public/profile-pic.png"}
                 alt="Profile"
                 roundedCircle
                 className="img-fluid"
